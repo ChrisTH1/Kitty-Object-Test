@@ -1,0 +1,14 @@
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\bin\Debug\net8.0\Saved Experiment With Objects.exe
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\bin\Debug\net8.0\Saved Experiment With Objects.deps.json
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\bin\Debug\net8.0\Saved Experiment With Objects.runtimeconfig.json
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\bin\Debug\net8.0\Saved Experiment With Objects.dll
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\bin\Debug\net8.0\Saved Experiment With Objects.pdb
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\Saved Experiment With Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\Saved Experiment With Objects.AssemblyInfoInputs.cache
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\Saved Experiment With Objects.AssemblyInfo.cs
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\Saved Experiment With Objects.csproj.CoreCompileInputs.cache
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\Saved Experiment With Objects.dll
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\refint\Saved Experiment With Objects.dll
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\Saved Experiment With Objects.pdb
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\Saved Experiment With Objects.genruntimeconfig.cache
+C:\Users\shutu\source\repos\Saved Experiment With Objects\Saved Experiment With Objects\obj\Debug\net8.0\ref\Saved Experiment With Objects.dll
